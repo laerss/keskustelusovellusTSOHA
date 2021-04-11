@@ -1,4 +1,9 @@
 # keskustelusovellusTSOHA
+!! en saa pushattua sovellusta millään keinoilla Herokuun, joten en pääse testaamaan sen toimivuutta.
+
+
+
+
 Käyttäjä voi kirjautua sisään ja ulos sekä luoda uuden tunnuksen.
 
 Käyttäjä näkee sovelluksen etusivulla listan alueista sekä jokaisen alueen ketjujen ja viestien määrän ja viimeksi lähetetyn viestin ajankohdan.
